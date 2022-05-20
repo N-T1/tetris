@@ -1,0 +1,11 @@
+﻿  tetris.cpp
+C:\Users\nasty\Desktop\ОПСУ курсовая\tetris\tetris.cpp(52,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\nasty\Desktop\ОПСУ курсовая\tetris\tetris.cpp(71,22): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\nasty\Desktop\ОПСУ курсовая\tetris\tetris.cpp(79,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\nasty\Desktop\ОПСУ курсовая\tetris\tetris.cpp(113,19): warning C4305: =: усечение из "double" в "float"
+C:\Users\nasty\Desktop\ОПСУ курсовая\tetris\tetris.cpp(250,17): warning C4305: =: усечение из "double" в "float"
+C:\Users\nasty\Desktop\ОПСУ курсовая\tetris\tetris.cpp(262,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nasty\Desktop\ОПСУ курсовая\tetris\tetris.cpp(262,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nasty\Desktop\ОПСУ курсовая\tetris\tetris.cpp(270,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\nasty\Desktop\ОПСУ курсовая\tetris\tetris.cpp(270,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  tetris.vcxproj -> C:\Users\nasty\Desktop\ОПСУ курсовая\tetris\x64\Debug\tetris.exe

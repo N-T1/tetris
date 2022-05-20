@@ -1,0 +1,3 @@
+﻿  tetris.cpp
+MSVCRT.lib(exe_main.obj) : error LNK2001: неразрешенный внешний символ main.
+C:\Users\nasty\Desktop\ОПСУ курсовая\tetris\x64\Release\tetris.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
